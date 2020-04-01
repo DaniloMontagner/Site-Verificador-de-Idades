@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(52, 156, 241);
+    font: Normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: rgb(175, 175, 175);
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#verificar:hover {
+    background-color: grey;
+}
+
+#verificar {
+    border: none;
+    border-radius: 3px;
+    box-shadow: 5px 5px 7px rgba(34, 34, 34, 0.726);
+    width: 200px;
+    padding: 10px;
+    
+    margin-left: 150px;
+}
+
+#res {
+    text-align: center;
+
+}
+
+
+
